@@ -1,2 +1,3 @@
-# dotfiles-2
-My dotfiles
+# Dotfiles for Fedora Workstation
+
+
