@@ -61,7 +61,6 @@ dnf install -y alacritty \
             autojump-zsh \
             zsh-autosuggestions \
             zsh-syntax-highlighting \
-            chromium-freeworld \
             nautilus-dropbox \
             youtube-dl \
             ranger \
