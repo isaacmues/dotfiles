@@ -78,7 +78,8 @@ dnf install -y alacritty \
             jetbrains-mono-fonts-all \
             gnome-tweaks \
             tmux \
-            conda
+            conda \
+            bpytop
 
 # Change shell
 chsh -s /bin/zsh $USER
